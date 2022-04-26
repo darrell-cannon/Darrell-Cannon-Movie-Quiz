@@ -1,0 +1,117 @@
+{
+	"questionsArray": [
+		{
+			"questionString": "How many people got killed by a Dinosaur in Jurassic Park?",
+			"answersArray": [
+				"5",
+				"6",
+				"7",
+				"8"
+			],
+			"correctAnswer": "5"
+		},
+		{
+			"questionString": "The code in The Matrix comes from what food recipes?",
+			"answersArray": [
+				"Sushi Recipes",
+				"Dumpling Recipes",
+				"Stir-Fry Recipes",
+				"Pad Thai Recipe"
+			],
+			"correctAnswer": "Sushi Recipes"
+		},
+		{
+			"questionString": "Who actually drew the sketch of Rose in Titanic?",
+			"answersArray": [
+				"Leonardo DiCaprio",
+				"Billy Zane",
+				"James Cameron",
+				"Kathy Bates"
+			],
+			"correctAnswer": "James Cameron"
+		},
+		{
+			"questionString": "Who voices Joy in Pixar's Inside Out?",
+			"answersArray": [
+				"Tina Fey",
+				"Kathryn Hahn",
+				"Ellen DeGeneres",
+				"Amy Poehler"
+			],
+			"correctAnswer": "Amy Poehler"
+		},
+		{
+			"questionString": "Where were The Lord of the Rings movies filmed?",
+			"answersArray": [
+				"Ireland",
+				"Iceland",
+				"New Zealand",
+				"Australia"
+			],
+			"correctAnswer": "New Zealand"
+		},
+		{
+			"questionString": "What is the name of the fictional land where Frozen takes place?",
+			"answersArray": [
+				"Arendelle",
+				"Naples",
+				"Florin",
+				"Grimm"
+			],
+			"correctAnswer": "Arendelle"
+		},
+		{
+			"questionString": "What was the top-grossing movie of 2014?",
+			"answersArray": [
+				"The Hunger Games: Mockingjay Part 1",
+				"The Lego Movie",
+				"Captain America: The Winter Soldier",
+				"Guardians of the Galaxy"
+			],
+			"correctAnswer": "Guardians of the Galaxy"
+		},
+		{
+			"questionString": "How old was Stockard Channing when she played high school student Rizzo in Grease?",
+			"answersArray": [
+				"27",
+				"33",
+				"38",
+				"25"
+			],
+			"correctAnswer": "33"
+		},
+		{
+			"questionString": "What item is in every Fight Club scene?",
+			"answersArray": [
+				"A Coca-Cola can",
+				"A Starbucks cup",
+				"A Dunkin' donut",
+				"A Pepsi bottle"
+			],
+			"correctAnswer": "A Starbucks cup"
+		},
+		{
+			"questionString": "Some of the velociraptor noises in Jurassic Park are actually which animals mating?",
+			"answersArray": [
+				"Tortoises",
+				"Frogs",
+				"Lizards",
+				"Crocodiles"
+			],
+			"correctAnswer": "Tortoises"
+		},
+		{
+			"questionString": "Which movie was not directed by Tim Burton?",
+			"answersArray": [
+				"The Witches",
+				"Pee-Wee’s Big Adventure",
+				"Corpse Bride",
+				"Big Fish"
+			],
+			"correctAnswer": "The Witches"
+		}
+
+	]
+
+
+}
